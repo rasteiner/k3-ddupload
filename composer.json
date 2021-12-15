@@ -1,5 +1,5 @@
 {
-  "name": "rasteiner/ddupload",
+  "name": "rasteiner/k3-ddupload",
   "description": "Replaces standard image block preview to allow you to directly upload images by drag&dropping them on the block preview.",
   "type": "kirby-plugin",
   "license": "MIT",
