@@ -1,0 +1,21 @@
+{
+  "name": "rasteiner/ddupload",
+  "description": "Replaces standard image block preview to allow you to directly upload images by drag&dropping them on the block preview.",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "homepage": "https://github.com/rasteiner/k3-ddupload",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Roman Steiner",
+      "email": "roman@toastlab.ch",
+      "homepage": "https://getkirby.com/plugins/rasteiner"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.2"
+  },
+  "extra": {
+    "installer-name": "ddupload"
+  }
+}
